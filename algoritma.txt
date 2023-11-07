@@ -1,0 +1,7 @@
+algoritma mencari nilai angka genap/ganjil
+1)inisialisasi variabel input angka user dan variabel outputnya
+  angkaUser
+  hasil
+2)menggunakan modulus untuk mencari genap/ganjil
+  jika angka habis dibagi 2, genap
+  jika tidak, ganjil
